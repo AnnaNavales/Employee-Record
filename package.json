@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/AnnaNavales/Employee-Record/issues"
   },
-  "homepage": "https://github.com/AnnaNavales/Employee-Record#readme"
+  "homepage": "https://github.com/AnnaNavales/Employee-Record#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "http2": "^3.3.7",
+    "inquirer": "^8.1.5",
+    "msql": "^1.0.3"
+  }
 }

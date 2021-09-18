@@ -1,4 +1,4 @@
-use employee_record_db
+use employee_record_db;
 INSERT INTO department(name)
 VALUES('Engineering');
 
