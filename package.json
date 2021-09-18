@@ -1,0 +1,19 @@
+{
+  "name": "employee-record",
+  "version": "1.0.0",
+  "description": "Employee Record is an MYSQL integrated CLI application. In this application you can track employees information, role, department and salary. These interfaces are called Content Management System.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnnaNavales/Employee-Record.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AnnaNavales/Employee-Record/issues"
+  },
+  "homepage": "https://github.com/AnnaNavales/Employee-Record#readme"
+}
