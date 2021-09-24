@@ -39,6 +39,7 @@ mysql
 
 
 # Screenshot and Walkthrough video
+https://watch.screencastify.com/v/rGndLiwj6giVh8t8d9YG
 
 
 
